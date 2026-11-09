@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-08T08:40:41.748646+00:00",
-  "date": "2026-11-08",
+  "generated_at": "2026-11-09T09:17:07.915597+00:00",
+  "date": "2026-11-09",
   "sample_requests": [
     {
       "service": "payments-api",
-      "risk_score": 100,
-      "risk_level": "critical",
-      "request_id": "CHG0778455",
+      "risk_score": 84,
+      "risk_level": "high",
+      "request_id": "CHG6692932",
       "change_type": "standard"
     },
     {
       "service": "fx-rate-service",
-      "risk_score": 81,
-      "risk_level": "high",
-      "request_id": "CHG7565879",
+      "risk_score": 61,
+      "risk_level": "medium",
+      "request_id": "CHG7934045",
       "change_type": "dependency-update"
     },
     {
       "service": "notification-service",
-      "risk_score": 68,
+      "risk_score": 48,
       "risk_level": "medium",
-      "request_id": "CHG2035339",
+      "request_id": "CHG8551742",
       "change_type": "new-feature"
     }
   ]
